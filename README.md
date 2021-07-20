@@ -1,5 +1,5 @@
-Hi, I am Rikky
-Interested in security
-Currently learning HTML and CSS
-Looking to collaborate on everything
-You can reach me on discord : Rikky~!#2831
+Hi, I am Rikky <br>
+Interested in security <br>
+Currently learning HTML and CSS <br>
+Looking to collaborate on everything <br>
+You can reach me on discord : Rikky~!#2831 <br>
